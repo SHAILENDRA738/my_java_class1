@@ -5,21 +5,21 @@ public class VariableDemo {
 
         //Syntax :
         //Datatype variable_name=value;
-        String name="java";// string values always will be in double court
+        String name="java";
 
         String cource="Microservice Developer";
 
         System.out.println("Printing Variable name: " +name);
         System.out.println("Priting Variable cource: " +cource);
 
-        //Datatype variabl_name=value;
+        //Datatype variable_name=value;
         int age=25;
-
         System.out.println("Printing Age: "+age);
+
         //Datatype variavle_name=age;
         double price=35.5;
-
         System.out.println("Printing price: " +price);
+
         //Datatype variable_name=value;
         boolean flag=true;
         System.out.println("Printing flag "+flag);
