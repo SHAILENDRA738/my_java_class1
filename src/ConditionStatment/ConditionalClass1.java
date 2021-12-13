@@ -23,6 +23,7 @@ public class ConditionalClass1 {
         }
         if (age>=20 && city=="BANGALORE"){
             System.out.println("XYZ");
+            System.out.println("SHA");
 
 
 
