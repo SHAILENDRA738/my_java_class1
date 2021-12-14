@@ -7,16 +7,17 @@ public class LoopsDemo {
             System.out.println("Hello SHA" + i);
         }
         for (int i = 10; i >= 1; i--) {
-            System.out.println("Hello SHA" +i);
+            System.out.println("Hello SHA" + i);
         }
-        int j=0;
-        while (j<5) {
+        int j = 0;
+        while (j < 5) {
             System.out.println("Hello Sha" + j);
             j++;
         }
-        int j=0;
-        while ()
-        }
-
     }
+}
+
+
+
+
 
