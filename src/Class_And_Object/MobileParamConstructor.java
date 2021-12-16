@@ -15,11 +15,12 @@ public class MobileParamConstructor {
     public static void main(String[] args) {
         MobileParamConstructor object=new MobileParamConstructor("samsung",25000,8);
 
-
         System.out.println(object.name);
         System.out.println(object.prices);
         System.out.println(object.ram);
+
         MobileParamConstructor object1=new MobileParamConstructor("oppo",20000,6);
+
         System.out.println(object1.name);
         System.out.println(object1.prices);
         System.out.println(object1.ram);
