@@ -13,6 +13,7 @@ public class CalculatorAssiment {
         int a=6;
         int b=4;
         int result=a-b;
+
         System.out.println("subtration of a and b is :"+result);
          return  result;
 
@@ -20,17 +21,18 @@ public class CalculatorAssiment {
         public int multi(){
          int a=6;
          int b=4;
-         int result=a-b;
+         int result=a*b;
 
             System.out.println(" multi of a and b is :"+result);
-
             return result;
         }
-        public void divide(){
+        public int divide(){
          int a=6;
          int b=4;
          int result=a/b;
+
             System.out.println("divide of a and b :"+result);
+            return result;
         }
         public static void main(String[] args) {
 
